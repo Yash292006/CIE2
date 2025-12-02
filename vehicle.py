@@ -1,5 +1,4 @@
 # employee.py
-import pytest
 def vehicle_details(no, name, type, year):
     result = (
         f"Vehical Number: {no}\n"
